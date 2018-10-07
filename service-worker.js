@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/polynomial_regression/precache-manifest.a41315a77db17a19736a949773183ed9.js"
+  "/polynomial_regression/precache-manifest.3716ea7818b52c37b03cba2623242fe4.js"
 );
 
 workbox.clientsClaim();
