@@ -176,7 +176,7 @@ class App extends Component {
                     {this.state.console.map(value => (
                         <pre key={Math.random()}>&gt;&nbsp;{value}</pre>
                     ))}
-                    
+
                 </Paper>
             </div>
         );
