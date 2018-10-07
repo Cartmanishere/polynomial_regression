@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/polynomial_regression/static/js/runtime~main.5beae740.js"
   },
   {
-    "revision": "ecb5fa212b2066612633",
-    "url": "/polynomial_regression/static/js/main.ecb5fa21.chunk.js"
+    "revision": "3d96ce738ced379e1f24",
+    "url": "/polynomial_regression/static/js/main.3d96ce73.chunk.js"
   },
   {
     "revision": "7c0faff2cbdb387a776e",
     "url": "/polynomial_regression/static/js/1.7c0faff2.chunk.js"
   },
   {
-    "revision": "ecb5fa212b2066612633",
+    "revision": "3d96ce738ced379e1f24",
     "url": "/polynomial_regression/static/css/main.56a26e7d.chunk.css"
   },
   {
-    "revision": "671c4d159ae4c61f2d44dc22a9e45c3b",
+    "revision": "a0c01ba3da55ca432e652f4b046ef325",
     "url": "/polynomial_regression/index.html"
   }
 ];
