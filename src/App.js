@@ -18,7 +18,7 @@ class App extends Component {
         this.consolePrint = this.consolePrint.bind(this);
 
         this.state.coeff = {a: 0.2, b: 0.2, c: 0.2};
-        this.epochs = 100;
+        this.epochs = 250;
         this.numPoints = 1000;
         this.learningRate = 0.1;
 
