@@ -169,7 +169,7 @@ class App extends Component {
                 <br/>
                 <Paper style={{padding: 5, paddingLeft: 20, backgroundColor: "#222", color: "white"}}>
                     <h2 align={'center'}>Tensorflow JS Polynomial Regression</h2>
-                    {<h4 align={'center'}>{this.state.coeff.a} x<sup>2</sup> + {this.state.coeff.b} x + {this.state.coeff.c} = 0</h4>}
+                    {<h4 align={'center'}>y = {this.state.coeff.a} x<sup>2</sup> + {this.state.coeff.b} x + {this.state.coeff.c}</h4>}
 
                     <Divider light />
 
